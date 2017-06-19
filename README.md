@@ -1,2 +1,4 @@
 # hello-world
-Just another Repository
+
+Hi humans!
+I'm kanreina,I like listening musics
